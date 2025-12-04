@@ -14,12 +14,3 @@
 </div>
 
 <br>
-
-<p align="center">✨My stats✨</p>
-<hr>
-<div align="center">
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmin0204)](https://github.com/jmin0204/github-readme-stats)
-</div>
-
-
