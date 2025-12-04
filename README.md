@@ -14,17 +14,7 @@
 </div>
 
 <br>
-<br>
 
-<p align="center">✨Tool✨</p>
-<hr size="1">
-<div align="center">
-<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
-</div>
-<br>
-<br>
 <p align="center">✨My stats✨</p>
 <hr>
 <div align="center">
